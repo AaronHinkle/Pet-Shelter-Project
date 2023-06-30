@@ -26,6 +26,8 @@ In the main menu, you'll see five main options to choose from
 	-This selection will show all pets at your shelter, and allow you to remove them from your list. 
 </li>
 <li>
+
+ <div></div>
 Side note, when interacting with the individual pet - ask them to speak! It was fun to play around with sound design. 
 </li>
 
