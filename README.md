@@ -1,4 +1,4 @@
-# PetProject
+# PetShelterProject
 
 In this game, you have the ability to not only create your own pets, but also to interact with them and even make sure that they get to move on from your shelter (adoption). As time goes on, the pet statuses will be negatively affected by the passing of time (turns) that are displayed on the top of the console.
 
