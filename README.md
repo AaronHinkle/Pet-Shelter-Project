@@ -10,12 +10,16 @@ In the main menu, you'll see five main options to choose from
 
 1.) Create a pet
 	- This will allow you to create a new pet and specify whether you want them to be an organic pet or a robot. 
+ 
 2.) View pet status
 	- This selection will allow you to see all pet statuses in your shelter
+ 
 3.) Interact with pet
 	- This selection will allow you to interact with one pet in particular. (Play, feed, take to doctor) 
+ 
 4.) Interact with group
 	-This selection will allow you to interact with all pets at one time that are currently in your shelter. 
+ 
 5.) Adoption
 	-This selection will show all pets at your shelter, and allow you to remove them from your list. 
 
