@@ -9,7 +9,7 @@ To manage these attributes, you'll have the ability to feed your pets, play with
 In the main menu, you'll see five main options to choose from
 
 
-	<ul>
+
 <li> 1.) Create a pet 
 	- This will allow you to create a new pet and specify whether you want them to be an organic pet or a robot. 
 </li>
@@ -28,4 +28,4 @@ In the main menu, you'll see five main options to choose from
 <li>
 Side note, when interacting with the individual pet - ask them to speak! It was fun to play around with sound design. 
 </li>
-</ul>
+
